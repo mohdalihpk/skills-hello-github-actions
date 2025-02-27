@@ -26,6 +26,7 @@ The shell script in the workflow will run whenever a new pull request is opened.
 1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
 
 ### : Testing the Action
+The Actions will be create when we create a pull request.
 
 <footer>
 
